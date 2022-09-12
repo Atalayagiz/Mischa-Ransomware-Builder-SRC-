@@ -1,0 +1,10 @@
+C:\Users\ygzat\Desktop\GoldenEye-Builder-master\GoldenEye-Builder-master\Petya and GoldenEye BUILDER\bin\Debug\Petya and GoldenEye BUILDER.exe.config
+C:\Users\ygzat\Desktop\GoldenEye-Builder-master\GoldenEye-Builder-master\Petya and GoldenEye BUILDER\bin\Debug\Petya and GoldenEye BUILDER.exe
+C:\Users\ygzat\Desktop\GoldenEye-Builder-master\GoldenEye-Builder-master\Petya and GoldenEye BUILDER\bin\Debug\Petya and GoldenEye BUILDER.pdb
+C:\Users\ygzat\Desktop\GoldenEye-Builder-master\GoldenEye-Builder-master\Petya and GoldenEye BUILDER\obj\Debug\Petya and GoldenEye BUILDER.csproj.AssemblyReference.cache
+C:\Users\ygzat\Desktop\GoldenEye-Builder-master\GoldenEye-Builder-master\Petya and GoldenEye BUILDER\obj\Debug\Petya_and_GoldenEye_BUILDER.Properties.Resources.resources
+C:\Users\ygzat\Desktop\GoldenEye-Builder-master\GoldenEye-Builder-master\Petya and GoldenEye BUILDER\obj\Debug\Petya_and_GoldenEye_BUILDER.Form1.resources
+C:\Users\ygzat\Desktop\GoldenEye-Builder-master\GoldenEye-Builder-master\Petya and GoldenEye BUILDER\obj\Debug\Petya and GoldenEye BUILDER.csproj.GenerateResource.cache
+C:\Users\ygzat\Desktop\GoldenEye-Builder-master\GoldenEye-Builder-master\Petya and GoldenEye BUILDER\obj\Debug\Petya and GoldenEye BUILDER.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\Desktop\GoldenEye-Builder-master\GoldenEye-Builder-master\Petya and GoldenEye BUILDER\obj\Debug\Petya and GoldenEye BUILDER.exe
+C:\Users\ygzat\Desktop\GoldenEye-Builder-master\GoldenEye-Builder-master\Petya and GoldenEye BUILDER\obj\Debug\Petya and GoldenEye BUILDER.pdb
